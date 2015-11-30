@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/pushrocks/gulp-pipelog#readme",
   "dependencies": {
-    "pipelog": "0.0.0"
+    "pipelog": "0.0.4"
   }
 }
