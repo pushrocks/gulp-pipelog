@@ -1,0 +1,26 @@
+{
+  "name": "gulp-pipelog",
+  "version": "0.0.0",
+  "description": "simple gulp wrapper for pipelog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pushrocks/gulp-pipelog.git"
+  },
+  "keywords": [
+    "gulp",
+    "log"
+  ],
+  "author": "Lossless Digital UG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pushrocks/gulp-pipelog/issues"
+  },
+  "homepage": "https://github.com/pushrocks/gulp-pipelog#readme",
+  "dependencies": {
+    "pipelog": "0.0.0"
+  }
+}
