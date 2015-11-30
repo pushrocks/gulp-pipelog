@@ -4,7 +4,7 @@
   "description": "simple gulp wrapper for pipelog",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Simply handing through new tested versions of pipelog. No tests needed here.\""
   },
   "repository": {
     "type": "git",
