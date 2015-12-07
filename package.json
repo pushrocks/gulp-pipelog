@@ -1,6 +1,6 @@
 {
   "name": "gulp-pipelog",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "simple gulp wrapper for pipelog",
   "main": "index.js",
   "scripts": {
