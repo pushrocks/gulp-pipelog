@@ -22,6 +22,9 @@ gulp.task("myTask",function(){
 });
 ```
 
+The code above produces a console output like this:
+![console.png](https://mediaserve.lossless.digital/github.com/pushrocks/gulp-pipelog/console.png)
+
 ## Why this wrapper?
 This wrapper wraps pipelog:
 
